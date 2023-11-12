@@ -1,0 +1,13 @@
+.students {
+  display: flex;
+  justify-content: space-between;
+}
+
+.card {
+  width: 100px;
+  height: 100px;
+  background-color: antiquewhite;
+  border: 2px black solid;
+  white-space: pre-wrap;
+  padding: 10px;
+}
